@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working as a .NET backend developer<br>🌱 I’m currently learning Japanese<br>⚡ Fun fact - I am an otaku
+# 👀 About Me:
+🧑‍💻 I’m currently working as a .NET backend developer<br>😈 Fact - I'm an otaku who loves anime and Japanese culture.
 
 
 # 💻 Tech Stack:
